@@ -87,7 +87,7 @@ Many people spend money without keeping proper records of income and expenses. T
 
 \- Algorithm: The algorithm begins with the program starting and displaying the system title. It then collects the user’s details such as the budget owner’s name and the budget period. After that, the program asks for income sources and uses a loop to gather each amount, ensuring that no negative values are accepted. Once all income is recorded, the program moves on to expenses, again looping through each category and validating the inputs. With both totals calculated, the program determines the remaining balance by subtracting expenses from income. Decision logic is then applied to classify the budget status as surplus, balanced, or overspending. Finally, the program presents the budget report on screen and saves it to a text file before ending. See `algorithm.md'
 
-\- Pseudocode: See `pseudocode.md`
+\- Pseudocode: See `Personal Budget Tracker/pseudocode.md`
 
 
 
