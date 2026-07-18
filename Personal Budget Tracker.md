@@ -96,7 +96,7 @@ Many people spend money without keeping proper records of income and expenses. T
 ##### Flowchart
 
 !\[Flowchart](flowchart.png)
-
+The flowchart accurately represents the logical structure of the Personal Budget Tracker system. It begins with user input for the budget owner’s details and smoothly transitions into loops that handle multiple income and expense entries. Each decision symbol correctly checks for negative values, ensuring proper validation before calculations proceed. The process boxes for computing total income, total expenses, and balance are placed in logical sequence, followed by decision branches that classify the budget status as Surplus, Balanced, or Overspending. The final output and file-saving steps complete the workflow neatly. Overall, the flowchart demonstrates clear logic, proper use of symbols, and an organized flow that aligns perfectly with the algorithm and pseudocode requirements of the project.
 
 
 
