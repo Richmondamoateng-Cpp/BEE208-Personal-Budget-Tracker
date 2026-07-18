@@ -65,7 +65,7 @@ int main() {
 
     // 10. Classify budget status
     if (remainingBalance > 0) {
-        budgetStatus = "Surplus / Saving";
+        budgetStatus = "Surplus / Savings";
     } else if (remainingBalance < 0) {
         budgetStatus = "Deficit / Overspending";
     } else {
