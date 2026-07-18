@@ -41,7 +41,7 @@
 
 ##### Problem Statement
 
-Many people spend money without keeping proper records of income and expenses. This project provides a simple C++ application to helps the individual track income, expenses, balance, and budget status.
+Many people spend money without keeping proper records of income and expenses. This project provides a simple C++ application that helps an individual track income, expenses, balance, and budget status.
 
 
 
